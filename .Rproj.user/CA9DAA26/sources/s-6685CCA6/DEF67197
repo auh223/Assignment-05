@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573764817758.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DEF67197",
+    "lastKnownWriteTime" : 1569262778,
+    "last_content_update" : 1569262778,
+    "path" : "~/Desktop/Git Repos/Intro-to-R/Intro to R - Ch 5.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "70,10",
+        "scrollLine" : "57"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573764539084.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8A40CC6",
+    "lastKnownWriteTime" : 1573764558,
+    "last_content_update" : 1573764998933,
+    "path" : "~/Desktop/Git Repos/Assignment-05/Assignment 05.R",
+    "project_path" : "Assignment 05.R",
+    "properties" : {
+        "cursorPosition" : "8,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
